@@ -1,0 +1,5 @@
+Number_of_completed_homework_assignments =(12)
+Number_of_hours_spent =(1.5)
+Course_Title=('Python')
+Time_for_one_task =(1.5/12)
+print(Number_of_completed_homework_assignments,  Number_of_hours_spent, Course_Title, Time_for_one_task)
